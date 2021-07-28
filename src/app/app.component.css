@@ -1,0 +1,16 @@
+.navbar-container{
+    height: 80px;
+    background: rgb(180, 180, 180);
+    
+    
+}
+
+.navbar-container span.material-icons{
+    margin-top: 12px;
+    font-size: 60px;
+    margin-left: 1250px;
+    color: rgb(34, 46, 66);
+    cursor: pointer;
+    
+}
+/*rgb(221, 220, 220)*/

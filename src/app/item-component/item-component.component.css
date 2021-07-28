@@ -1,0 +1,39 @@
+.page-div{
+    display:flex;
+    height: 100%;
+    background: rgb(37, 50, 73)
+}
+.sidebar{
+    height: 100%;
+    width: 20%;
+    background: rgb(0,0,0,0.2)
+}
+
+.page-contain-container{
+    padding: 100px;
+    font-family: cursive;
+    color: white;
+    font-size: 24px;
+}
+.list
+{
+    display: flex;
+    font-size: 18px;
+    color: white;
+    padding: 13px 20px;
+    font-family: cursive;
+    cursor:pointer;
+}
+
+.list-items{
+    padding-top: 100px;
+
+}
+
+.list span.material-icons{
+    margin-right: 20px;
+}
+
+.list.selected{
+    background: rgb(32, 124, 167)
+}
